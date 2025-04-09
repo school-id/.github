@@ -7,6 +7,8 @@ This is the official School ID Organizaion
 ### Structure
 - [Frontend](https://github.com/school-id/schoolid-frontend)
     - The web interface of the School ID made with the Next JS Framework
+- [Frontend (OLD)](https://github.com/school-id/schoolid-frontend-old)
+    - An outdated first iteration of the School ID frontend
 - [Backend](https://github.com/school-id/schoolid-backend)
     - The Backbone of the School ID made with the Nest JS Framework
 - [Documentation](https://github.com/school-id/documentation)
