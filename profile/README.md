@@ -14,4 +14,6 @@ This is the official School ID Organizaion
 - [Documentation](https://github.com/school-id/documentation)
     - The Docusaurus documentation containing frontend and backend.
 - [Temppage](https://github.com/school-id/temppage)
-    - A temporary page for [the SchoolID website](https://schoolid.de) while the main page is in development.
+    - A temporary page for the [School ID website](https://schoolid.de) while the main page is in development.
+- [Deployments](https://github.com/school-id/deployments)
+    - A repository for the kubernetes deployment files.
